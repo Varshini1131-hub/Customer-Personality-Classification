@@ -69,6 +69,6 @@ The dataset contains customer details such as:
  
 
 # AUTHOR
-VARSHINI R
-Email id : varshini3031sjcet@gmail.com
+-VARSHINI R
+-Email id : varshini3031sjcet@gmail.com
 
